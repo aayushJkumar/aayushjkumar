@@ -25,7 +25,7 @@ I am fast learner who's hunger to learn, improvise and adapt never dies.
 
 Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-kumar-515b67201/)](https://www.linkedin.com/in/arpan-das-534753125/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-kumar-515b67201/)](https://www.linkedin.com/in/aayush-kumar-515b67201/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jitendra.kumar.epf@gmail.com@gmail.com)](mailto:jitendra.kumar.epf@gmail.com)
 
  
@@ -74,7 +74,7 @@ Connect with me:
 
 My inbox is always open, whether you have a question or just want to say hi, you can always connect with me.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-kumar-515b67201/)](https://www.linkedin.com/in/arpan-das-534753125/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aayush-kumar-515b67201/)](https://https://www.linkedin.com/in/aayush-kumar-515b67201/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jitendra.kumar.epf@gmail.com)](mailto:jitendra.kumar.epf@gmail.com)
  
 
