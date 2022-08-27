@@ -9,9 +9,9 @@
 
 3rd Year Undergraduate Student **IIT Kharagpur**.
 
-#### Hi 👋, my name is **Aayush** and I am a **Tech Entusiast** and **Finance Enthusiast** based in Gujarat,India. 
+#### Hi 👋, my name is **Aayush** and I am a **Tech and Finance Enthusiast** based in Gujarat,India. 
 
-I am interested in building machine-learning and Integration solutions using Python scientific libraries.
+I am interested in building Integrated machine-learning solutions using Python scientific libraries.
 
 I am interested in various subjects of non technical domain like Analytics, Econometrics and Finance.
 
