@@ -48,8 +48,6 @@ Connect with me:
 
 ## Experience
 
-> Research Internship - [**Cambridge Judge Buisness School, United Kingdom**](https://www.jbs.cam.ac.uk/)
-
 > Internship - [**Indian School of Buisness, Hyderabad, India**](https://www.isb.edu/en.html)
 
 > Research Internship - [**IIT Guwahati, India**](https://www.iitg.ac.in/)
