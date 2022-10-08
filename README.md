@@ -60,7 +60,7 @@ Connect with me:
 * Applied Economics
 
 
-## Key Projetcs
+## Key Projects
 
 - **Time Series Forecasting Project**
 
