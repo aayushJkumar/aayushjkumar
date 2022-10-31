@@ -47,10 +47,11 @@ Connect with me:
 
 
 ## Experience
+> NLP Intern - [**ISB Institute of Data Science**](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/isb-institute-of-data-science.html)
 
-> Internship - [**Indian School of Buisness, Hyderabad, India**](https://www.isb.edu/en.html)
+> Data Science Intern - [**Indian School of Buisness, Hyderabad, India**](https://www.isb.edu/en.html)
 
-> Research Internship - [**IIT Guwahati, India**](https://www.iitg.ac.in/)
+> Computer Vision Intern - [**IIT Guwahati, India**](https://www.iitg.ac.in/)
 
 ## Research Interest
 
