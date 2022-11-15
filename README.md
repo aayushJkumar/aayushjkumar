@@ -13,7 +13,7 @@
 
 I am interested in building Integrated machine-learning solutions using Python scientific libraries.
 
-I am interested in various subjects of non technical domain like Analytics, Econometrics and Finance.
+I am also interested in various subjects of non technical domain like Analytics, Econometrics and Finance.
 
 I’m currently learning Data Structure & Algorithms
 
