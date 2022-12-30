@@ -47,7 +47,9 @@ Connect with me:
 
 
 ## Experience
-> NLP Intern - [**ISB Institute of Data Science**](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/isb-institute-of-data-science.html)
+> Research Associate - [**University of Cambridge, UK**](https://www.cam.ac.uk/)
+> 
+> NLP Intern - [**ISB Institute of Data Science, India**](https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/isb-institute-of-data-science.html)
 
 > Data Science Intern - [**Indian School of Buisness, Hyderabad, India**](https://www.isb.edu/en.html)
 
