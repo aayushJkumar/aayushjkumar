@@ -65,6 +65,8 @@ Connect with me:
 
 ## Key Projects
 
+- **Customer Feedback Analysis**
+
 - **Time Series Forecasting Project**
 
 - **Hotel Recommendation System Project**
