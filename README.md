@@ -83,13 +83,3 @@ My inbox is always open, whether you have a question or just want to say hi, you
 
 <!-- section - social media icons -->
 
-## GitHub Statistics
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aayushJkumar&hide=prs&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&bg_color=151515&theme=tokyonight&line_height=40">
-</p>
-
-
-<p align='center'>
-  <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aayushJkumar.visitor-badge">
-<p/>
