@@ -7,15 +7,13 @@
 [1]: https://www.linkedin.com/in/aayush-kumar-515b67201/
 [2]: mailto:jitendra.kumar.epf@gmail.com
 
-3rd Year Undergraduate Student **IIT Kharagpur**.
+Pre-Final Year Undergraduate Student **IIT Kharagpur**.
 
 #### Hi 👋, my name is **Aayush** and I am a **Tech and Finance Enthusiast** based in Gujarat,India. 
 
 I am interested in building Integrated machine-learning solutions using Python scientific libraries.
 
 I am also interested in various subjects of non technical domain like Analytics, Econometrics and Finance.
-
-I’m currently learning Data Structure & Algorithms
 
 I am passionate to learn new technologies and apply them to solve real world problems. 
 
@@ -70,8 +68,8 @@ Connect with me:
 - **Time Series Forecasting Project**
 
 - **Hotel Recommendation System Project**
-
-
+  
+- **Financial Performance by Indian Banks**
 
 ## Connect with me
 
